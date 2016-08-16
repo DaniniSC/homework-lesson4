@@ -10,3 +10,21 @@ div {
 	width: 400px;
 	height: auto;
 }
+table {
+	background: #ffd700;
+}
+h1 {
+	text-align: center;
+	background: #1d539d;
+	color: #fff1e1;
+}
+h2 {
+	text-align: center;
+} 
+img {
+	display: block;
+	margin: auto;
+}
+a {
+	text-decoration: none;
+}
